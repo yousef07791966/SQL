@@ -611,9 +611,9 @@ VALUES
  INSERT INTO Classes (ClassName, RoomNumber, CourseID)
 VALUES 
 ('Math 101', 'Room 101', 1),
-('Science 101', 'Room 102', 2),
+('Science 101', 'Room 102', 4),
 ('History 101', 'Room 103', 3),
-('CS 101', 'Room 104', 4);
+('CS 101', 'Room 104', 5);
 
  INSERT INTO Assignments (AssignmentName, Description, DueDate, Status, ClassID)
 VALUES 
